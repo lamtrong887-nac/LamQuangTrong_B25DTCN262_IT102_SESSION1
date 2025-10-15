@@ -1,0 +1,71 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Trang-1" id="r5mO5K05dbLKS8pYg4M-">
+    <mxGraphModel dx="922" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-1" target="BS70bNuFpoSsBrBkg2ci-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-1" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-2" value="nhập a,b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-3" target="BS70bNuFpoSsBrBkg2ci-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-13" value="có" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BS70bNuFpoSsBrBkg2ci-6">
+          <mxGeometry x="-0.4737" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-3" target="BS70bNuFpoSsBrBkg2ci-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-12" value="không" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BS70bNuFpoSsBrBkg2ci-7">
+          <mxGeometry x="-0.4714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-3" value="a=0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-4" target="BS70bNuFpoSsBrBkg2ci-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-4" value="b=0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-5" target="BS70bNuFpoSsBrBkg2ci-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-5" value="x= -b / a&lt;div&gt;xuất có nghiệm x&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-2" target="BS70bNuFpoSsBrBkg2ci-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-10" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-14" target="BS70bNuFpoSsBrBkg2ci-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-14" value="xuất vô sô nghiệm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BS70bNuFpoSsBrBkg2ci-16" target="BS70bNuFpoSsBrBkg2ci-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-16" value="xuất vô nghiệm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS70bNuFpoSsBrBkg2ci-18" value="kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
